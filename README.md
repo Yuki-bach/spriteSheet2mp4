@@ -1,0 +1,2 @@
+# spriteSheet2mp4
+DALLE3で作成したspriteSheetから動画を作成する
